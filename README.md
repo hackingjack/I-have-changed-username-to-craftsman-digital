@@ -1,2 +1,2 @@
-# I-have-changed-username-to-craftsman-digital
-Please visit @craftsmandigital. I have changed username
+# I have changed-username to [craftsmandigital](../../../../craftsmandigital)
+Please visit [craftsmandigital](../../../../craftsmandigital). I have changed username
